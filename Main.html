@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculator</title>
+</head>
+<body>
+
+<script>
+var global = 0;
+    function f() {
+        let current = parseInt(document.getElementById("num").value);
+        if (current !== parseInt(document.getElementById("num").value)){
+
+        }else{
+            global+=current;
+            console.log(global);
+            document.getElementById("result").value = global;
+            document.getElementById("num").value = "";
+        }
+
+    }
+</script>
+<input type="text" id="num" value="" style="display: block" />
+<input type="text" id="result" style="display: block; margin-top: 10px"/>
+<button onclick="f()">Sum</button>
+</body>
+</html>

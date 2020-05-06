@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/JSlab.js" description="&#10;" line="949" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a4e150d-9253-496b-aa4c-4314237776d7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-815870516">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="95" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.112" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="4" />
+          <entry key="project.open.time.25" value="4" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.27" value="4" />
+          <entry key="project.open.time.28" value="4" />
+          <entry key="project.open.time.29" value="3" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="10" />
+          <entry key="project.open.time.32" value="6" />
+          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.34" value="4" />
+          <entry key="project.open.time.35" value="2" />
+          <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.42" value="2" />
+          <entry key="project.open.time.43" value="2" />
+          <entry key="project.open.time.44" value="2" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.47" value="3" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.98" value="1" />
+          <entry key="project.opened" value="97" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="_mocha" value="1" />
+          <entry key="css" value="20" />
+          <entry key="gif" value="2" />
+          <entry key="hbs" value="20" />
+          <entry key="html" value="92" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="163" />
+          <entry key="json" value="10" />
+          <entry key="png" value="1" />
+          <entry key="ts" value="1" />
+          <entry key="uglifyjs" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="20" />
+          <entry key="HTML" value="92" />
+          <entry key="Handlebars/Mustache" value="20" />
+          <entry key="Image" value="4" />
+          <entry key="JSON" value="10" />
+          <entry key="JavaScript" value="164" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="TypeScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="416" />
+          <entry key="html" value="2925" />
+          <entry key="js" value="137544" />
+          <entry key="json" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="416" />
+          <entry key="HTML" value="2944" />
+          <entry key="JSON" value="4" />
+          <entry key="JavaScript" value="137525" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SimpleCalculator" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TMS/scripts/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TMS/helpers/helper.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TMS/helpers/requester.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/templates/common/footer.hbs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/templates/common/header.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TMS/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="35" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TMS/controllers/homeController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TMS/controllers/userController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TMS/models/userModel.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TMS/helpers/storage.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>calculator</find>
+      <find>neededProducts</find>
+      <find>content</find>
+      <find>actions</find>
+      <find>Reply</find>
+      <find>checkbox</find>
+      <find>radio</find>
+      <find>rad</find>
+      <find>delFun</find>
+      <find>fetch</find>
+      <find>button</find>
+      <find>fet</find>
+      <find>load</find>
+      <find>resolve</find>
+      <find>set</find>
+      <find>canvas</find>
+      <find>clear</find>
+      <find>console</find>
+      <find>savePlayer</find>
+      <find>return</find>
+      <find>loadElements</find>
+      <find>player</find>
+      <find>put</find>
+      <find>data.mone</find>
+      <find>play</find>
+      <find>module</find>
+      <find>requester</find>
+      <find>logged</find>
+      <find>main</find>
+      <find>home</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Acer\WebstormProjects\SimpleCalculator\05. Articles List</dir>
+      <dir>C:\Users\Acer\WebstormProjects\SimpleCalculator\RealExam</dir>
+      <dir>C:\Users\Acer\WebstormProjects\SimpleCalculator</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TestConsole/Console.Tests.js" />
+        <option value="$PROJECT_DIR$/Form Acceptance/scripts/app.js" />
+        <option value="$PROJECT_DIR$/TestSoftunify/softunify.js" />
+        <option value="$PROJECT_DIR$/TestSoftunify/SoftUniFy.Tests.js" />
+        <option value="$PROJECT_DIR$/CofeeBill/index.html" />
+        <option value="$PROJECT_DIR$/CarServiceTests/CarService.js" />
+        <option value="$PROJECT_DIR$/CarServiceTests/CarServiceTests.js" />
+        <option value="$PROJECT_DIR$/FreelanceOffers/scripts/app.js" />
+        <option value="$PROJECT_DIR$/SoftuniCourses/scripts/solution.js" />
+        <option value="$PROJECT_DIR$/Exam123/scripts/index.js" />
+        <option value="$PROJECT_DIR$/ExamTestSoftuni/pizzaLab.js" />
+        <option value="$PROJECT_DIR$/ExamTestSoftuni/pizaaUniTests.js" />
+        <option value="$PROJECT_DIR$/ExamTestSoftuni/03. Computer_Ресурси.js" />
+        <option value="$PROJECT_DIR$/04.XHR/scripts/app.js" />
+        <option value="$PROJECT_DIR$/05.Github-Repos/scripts/app.js" />
+        <option value="$PROJECT_DIR$/01.BUS-STOP/app.js" />
+        <option value="$PROJECT_DIR$/02.BUS-SCHEDULE/app.js" />
+        <option value="$PROJECT_DIR$/03.PHONEBOOK/index.html" />
+        <option value="$PROJECT_DIR$/03.PHONEBOOK/app.js" />
+        <option value="$PROJECT_DIR$/04.MESSENGER/app.js" />
+        <option value="$PROJECT_DIR$/01.GITHUB-COMMITS/app.js" />
+        <option value="$PROJECT_DIR$/02.BLOG/index.html" />
+        <option value="$PROJECT_DIR$/02.BLOG/app.js" />
+        <option value="$PROJECT_DIR$/01. FORECASTER/index.html" />
+        <option value="$PROJECT_DIR$/01. FORECASTER/app.js" />
+        <option value="$PROJECT_DIR$/02. FISHER-GAME/styles.css" />
+        <option value="$PROJECT_DIR$/02. FISHER-GAME/index.html" />
+        <option value="$PROJECT_DIR$/02. FISHER-GAME/app.js" />
+        <option value="$PROJECT_DIR$/BOOKS/styles.css" />
+        <option value="$PROJECT_DIR$/BOOKS/index.html" />
+        <option value="$PROJECT_DIR$/STUDENTS/index.html" />
+        <option value="$PROJECT_DIR$/STUDENTS/styles.css" />
+        <option value="$PROJECT_DIR$/STUDENTS/app.js" />
+        <option value="$PROJECT_DIR$/VENUEMASTER/index.html" />
+        <option value="$PROJECT_DIR$/BOOKS/app.js" />
+        <option value="$PROJECT_DIR$/VENUEMASTER/app.js" />
+        <option value="$PROJECT_DIR$/Secret Knock/secretKnock.js" />
+        <option value="$PROJECT_DIR$/JSlab.js" />
+        <option value="$PROJECT_DIR$/WILD-WILD-WEST/styles.css" />
+        <option value="$PROJECT_DIR$/WILD-WILD-WEST/loadElements.js" />
+        <option value="$PROJECT_DIR$/WILD-WILD-WEST/loadCanvas.js" />
+        <option value="$PROJECT_DIR$/TryMochaTests/sum.js" />
+        <option value="$PROJECT_DIR$/WILD-WILD-WEST/west.html" />
+        <option value="$PROJECT_DIR$/WILD-WILD-WEST/attachEvents.js" />
+        <option value="$PROJECT_DIR$/Team-Manager-Skeleton/scripts/models/teamsService.js" />
+        <option value="$PROJECT_DIR$/TMS/index.html" />
+        <option value="$PROJECT_DIR$/Team-Manager-Skeleton/package.json" />
+        <option value="$PROJECT_DIR$/Team-Manager-Skeleton/scripts/app.js" />
+        <option value="$PROJECT_DIR$/Team-Manager-Skeleton/index.html" />
+        <option value="$PROJECT_DIR$/TMS/controllers/userController.js" />
+        <option value="$PROJECT_DIR$/TMS/controllers/homeController.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Team-Manager-Skeleton/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/TMS/package.json" />
+      <path value="$PROJECT_DIR$/Team-Manager-Skeleton/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1120" />
+    <option name="height" value="625" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Node.jsJavaScript</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SimpleCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleCalculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="Team-Manager-Skeleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="Team-Manager-Skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="Team-Manager-Skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="Team-Manager-Skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="Team-Manager-Skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="TMS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="TMS" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="TMS" type="462c0819:PsiDirectoryNode" />
+              <item name="helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="TMS" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="TMS" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="TMS" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="TMS" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="SimpleCalculator" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="mo&#9;RUN_CONFIGURATION&#9;Mocha Tests" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TMS" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\WebstormProjects\SimpleCalculator\Team-Manager-Skeleton" />
+      <recent name="C:\Users\Acer\WebstormProjects\SimpleCalculator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\WebstormProjects\SimpleCalculator" />
+      <recent name="C:\Users\Acer\WebstormProjects\SimpleCalculator\ExamTestSoftuni" />
+      <recent name="C:\Users\Acer\WebstormProjects\SimpleCalculator\WarehouseMachineExam" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/SimpleCalculator/Team-Manager-Skeleton/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="03. Computer_Ресурси.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="03. Computer_Ресурси.js" working-dir="$PROJECT_DIR$/ExamTestSoftuni">
+      <method v="2" />
+    </configuration>
+    <configuration name="JSlab.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="JSlab.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/StupidCalculator">
+      <method v="2" />
+    </configuration>
+    <configuration name="secretKnock.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="secretKnock.js" working-dir="$PROJECT_DIR$/Secret Knock">
+      <method v="2" />
+    </configuration>
+    <configuration name="Mocha Tests" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/ExamTestSoftuni</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/ExamTestSoftuni</test-directory>
+      <recursive>false</recursive>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.Mocha Tests" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Node.js.JSlab.js" />
+      <item itemvalue="Node.js.app.js" />
+      <item itemvalue="Node.js.03. Computer_Ресурси.js" />
+      <item itemvalue="Node.js.secretKnock.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.secretKnock.js" />
+        <item itemvalue="Node.js.03. Computer_Ресурси.js" />
+        <item itemvalue="Node.js.JSlab.js" />
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a4e150d-9253-496b-aa4c-4314237776d7" name="Default Changelist" comment="" />
+      <created>1556191598027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556191598027</updated>
+      <workItem from="1556191600922" duration="3551000" />
+      <workItem from="1557056640504" duration="8972000" />
+      <workItem from="1557070344348" duration="1886000" />
+      <workItem from="1557145414361" duration="5308000" />
+      <workItem from="1557167645582" duration="7071000" />
+      <workItem from="1557180280678" duration="470000" />
+      <workItem from="1557181982734" duration="217000" />
+      <workItem from="1557234527992" duration="2609000" />
+      <workItem from="1557242943092" duration="1789000" />
+      <workItem from="1557929612125" duration="8633000" />
+      <workItem from="1558021114910" duration="847000" />
+      <workItem from="1558044166855" duration="2826000" />
+      <workItem from="1558093081071" duration="4544000" />
+      <workItem from="1558264283783" duration="12815000" />
+      <workItem from="1558350181098" duration="23975000" />
+      <workItem from="1558441225174" duration="5246000" />
+      <workItem from="1558530145132" duration="3838000" />
+      <workItem from="1558619095649" duration="1988000" />
+      <workItem from="1558730541774" duration="3091000" />
+      <workItem from="1558872233727" duration="2423000" />
+      <workItem from="1558878956850" duration="10495000" />
+      <workItem from="1558901239025" duration="6542000" />
+      <workItem from="1558962629715" duration="7019000" />
+      <workItem from="1559043124963" duration="10114000" />
+      <workItem from="1559078345899" duration="3208000" />
+      <workItem from="1559131609117" duration="19370000" />
+      <workItem from="1559214664172" duration="3009000" />
+      <workItem from="1559220750380" duration="12330000" />
+      <workItem from="1559315112676" duration="3619000" />
+      <workItem from="1559339067042" duration="2619000" />
+      <workItem from="1559403556924" duration="8321000" />
+      <workItem from="1559501617459" duration="5836000" />
+      <workItem from="1559511652317" duration="4139000" />
+      <workItem from="1559644472350" duration="4021000" />
+      <workItem from="1559648624625" duration="17856000" />
+      <workItem from="1559728040865" duration="6124000" />
+      <workItem from="1559741968274" duration="7510000" />
+      <workItem from="1559814447200" duration="13263000" />
+      <workItem from="1559909317414" duration="8570000" />
+      <workItem from="1560054022996" duration="5060000" />
+      <workItem from="1560064293632" duration="5288000" />
+      <workItem from="1560354042009" duration="1859000" />
+      <workItem from="1560450092045" duration="9423000" />
+      <workItem from="1560530210464" duration="5056000" />
+      <workItem from="1560545053089" duration="1289000" />
+      <workItem from="1560601278283" duration="11960000" />
+      <workItem from="1560789780125" duration="9244000" />
+      <workItem from="1560806563484" duration="3165000" />
+      <workItem from="1560863647727" duration="13831000" />
+      <workItem from="1560883362220" duration="4866000" />
+      <workItem from="1560965041584" duration="2243000" />
+      <workItem from="1560968568421" duration="1992000" />
+      <workItem from="1560970595241" duration="4927000" />
+      <workItem from="1561377754612" duration="22778000" />
+      <workItem from="1561473040008" duration="20285000" />
+      <workItem from="1561546984774" duration="23882000" />
+      <workItem from="1561582626179" duration="1207000" />
+      <workItem from="1561650606717" duration="2869000" />
+      <workItem from="1561723915026" duration="4054000" />
+      <workItem from="1561805962884" duration="11371000" />
+      <workItem from="1561976243869" duration="32351000" />
+      <workItem from="1562063786185" duration="15955000" />
+      <workItem from="1562150129675" duration="17353000" />
+      <workItem from="1562180634196" duration="3555000" />
+      <workItem from="1562235594397" duration="11996000" />
+      <workItem from="1562323064275" duration="5500000" />
+      <workItem from="1562429756298" duration="47000" />
+      <workItem from="1562478490555" duration="15563000" />
+      <workItem from="1562755679257" duration="2013000" />
+      <workItem from="1562760808691" duration="3239000" />
+      <workItem from="1562841838275" duration="5788000" />
+      <workItem from="1562849175126" duration="5000" />
+      <workItem from="1562852169344" duration="1657000" />
+      <workItem from="1563013971794" duration="17311000" />
+      <workItem from="1563038732145" duration="15624000" />
+      <workItem from="1563126514666" duration="107000" />
+      <workItem from="1563201440930" duration="824000" />
+      <workItem from="1563371254271" duration="13512000" />
+      <workItem from="1563388200780" duration="7698000" />
+      <workItem from="1563442535060" duration="7981000" />
+      <workItem from="1563459349118" duration="13052000" />
+      <workItem from="1563531565111" duration="10114000" />
+      <workItem from="1563564456646" duration="501000" />
+      <workItem from="1563617209750" duration="2549000" />
+      <workItem from="1563636177117" duration="5906000" />
+      <workItem from="1563647978472" duration="21343000" />
+      <workItem from="1563722173337" duration="337000" />
+      <workItem from="1563724819197" duration="5320000" />
+      <workItem from="1563793232124" duration="15340000" />
+      <workItem from="1563813213357" duration="5840000" />
+      <workItem from="1563822977850" duration="2656000" />
+      <workItem from="1563891313425" duration="6061000" />
+      <workItem from="1563908612062" duration="2081000" />
+      <workItem from="1563911280372" duration="10515000" />
+      <workItem from="1563923080347" duration="2399000" />
+      <workItem from="1563975298360" duration="62000" />
+      <workItem from="1563975895230" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Mocha_Tests - 2019.07.07 at 11h 45m 00s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.07.07 at 11h 47m 11s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.07.07 at 11h 47m 20s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.07.07 at 11h 47m 49s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.07.07 at 11h 48m 08s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.07.07 at 11h 48m 16s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.07.07 at 11h 48m 59s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.07.07 at 11h 50m 01s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.07.07 at 11h 50m 09s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.07.07 at 11h 50m 18s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="704899000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49048626" visible="true" weight="0.19530201" />
+      <window_info id="Structure" order="1" sideWeight="0.50951374" side_tool="true" weight="0.18440185" />
+      <window_info id="Favorites" order="2" sideWeight="0.50951374" side_tool="true" weight="0.18440185" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49239922" weight="0.3248227" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4937211" weight="0.39858156" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49834764" weight="0.32907802" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4852349" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5147651" side_tool="true" visible="true" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/06. Format the Text/solution.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/CreateCalculator/calculator.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JSlab.js</url>
+          <line>2569</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="property" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/02. FISHER-GAME/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" column="23" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VENUEMASTER/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Secret Knock/secretKnock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="88" selection-start-line="23" selection-start-column="88" selection-end-line="23" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOOKS/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5236">
+          <caret line="308" column="101" selection-start-line="306" selection-start-column="11" selection-end-line="308" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/templates/register/registerForm.hbs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VENUEMASTER/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WILD-WILD-WEST/loadElements.js" />
+    <entry file="file://$PROJECT_DIR$/TryMochaTests/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TryMochaTests/sum.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WILD-WILD-WEST/loadCanvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WILD-WILD-WEST/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="6" selection-start-line="1" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/templates/register/registerPage.hbs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01. FORECASTER/styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$EXa217532.1259/index.html" />
+    <entry file="file://$PROJECT_DIR$/WILD-WILD-WEST/attachEvents.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="104" column="37" selection-start-line="104" selection-start-column="37" selection-end-line="104" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/templates/catalog/details.hbs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/templates/catalog/team.hbs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/css/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/css/details.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/css/team.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/templates/login/loginForm.hbs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/templates/login/loginPage.hbs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/scripts/models/teamsService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/scripts/models/requester.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-490">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/scripts/models/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-762">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TMS/Team-Manager-Skeleton/scripts/app.js" />
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/templates/home/home.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WILD-WILD-WEST/west.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSlab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="3924" column="5" selection-start-line="3924" selection-start-column="5" selection-end-line="3924" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/node_modules/.bin/uglifyjs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6851">
+          <caret line="403" column="71" selection-start-line="403" selection-start-column="71" selection-end-line="403" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TMS/views/common/header.hbs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/node_modules/http-server/lib/http-server.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TMS/views/common/footer.hbs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/templates/about/about.hbs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TMS/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TMS/helpers/helper.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TMS/helpers/requester.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/templates/common/footer.hbs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team-Manager-Skeleton/templates/common/header.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TMS/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TMS/controllers/userController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TMS/models/userModel.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TMS/helpers/storage.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TMS/controllers/homeController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5596817" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
